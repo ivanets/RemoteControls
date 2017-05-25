@@ -1,0 +1,28 @@
+{
+    "name": "cordova-plugin-remotecontrol-ios",
+    "version": "0.0.1",
+    "description": "Remote controls for media in iOS",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ivanets/RemoteControls"
+    },
+    "keywords": [
+        "appplant",
+        "background",
+        "cordova",
+        "ecosystem:cordova"
+    ],
+    "platforms": [
+        "ios"
+    ],
+    "engines": [{
+        "name": "cordova",
+        "version": ">=6.0.0"
+    }],
+    "author": "-",
+    "license": "Apache 2.0",
+    "bugs": {
+        "url": "https://github.com/ivanets/RemoteControls/issues"
+    },
+    "homepage": "https://github.com/ivanets/RemoteControls#readme"
+}
